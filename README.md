@@ -28,4 +28,18 @@ DDDやClean Architectureを採用することで保守性、柔軟性の高い�
 
 # ポートフォリオ
 
-https://github.com/SuzukiCecil?tab=repositories&q=portfolio
+ポートフォリオに採用するリポジトリには `portfolio` のタブを付与しています
+
+ポートフォリオリポジトリ一覧：https://github.com/SuzukiCecil?tab=repositories&q=portfolio
+
+## ポートフォリオ1：golangによるアルゴリズムの実装リポジトリ
+### URL
+https://github.com/SuzukiCecil/go-algorithm
+### 概要
+業務経験のある言語は（ほぼ）PHPのみですが、将来的に業務で多言語を扱うことになっても問題ないようgolangを勉強した際に、golangの構文に慣れることを目的に幾つかのアルゴリズムの実装をしてみたリポジトリです。
+
+## ポートフォリオ2
+### URL
+https://github.com/SuzukiCecil/sns-api
+### 概要
+フルリニューアルの業務にて吸収したDDD, CleanArchitectureの知見をアウトプットするためにSNSアプリを想定したWebAPIの実装を行うリポジトリです。
